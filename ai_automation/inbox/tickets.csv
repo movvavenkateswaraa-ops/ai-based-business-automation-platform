@@ -1,0 +1,13 @@
+ticket_id,customer,subject,message
+T-1001,Priya Sharma,Charged twice for my invoice,"I was charged twice for invoice #4821 this month. This is unacceptable, please refund the extra payment immediately."
+T-1002,Daniel Brooks,Package not delivered,"My order was shipped last week but the tracking has not updated for 6 days. Could you check where my package is?"
+T-1003,Meera Iyer,Cannot log in to dashboard,"I keep getting an error when I try to log in. The page says authentication failed. I have a client meeting this afternoon, this is urgent."
+T-1004,Alex Chen,Thanks for the great support,"Just wanted to say thank you. The onboarding session was helpful and the team was excellent."
+T-1005,Rohan Das,Pricing for 200 users,"We are interested in your enterprise plan for about 200 users. Could you send a quote and arrange a demo?"
+T-1006,Sofia Rossi,Change my email address,"Please update the email address on my account to sofia.new@example.com. Thanks."
+T-1007,Karthik N,System down for all our staff,"Your platform has been down since morning. Our whole team cannot work and we are losing money. This is the worst outage we have had, fix it asap."
+T-1008,Lena Fischer,Question about invoice format,"Could you tell me whether invoices can include our VAT number? Not urgent."
+T-1009,James Walker,App is slow,"The reports page is very slow and sometimes times out. Not blocking us but it is frustrating."
+T-1010,Ananya Rao,Refund still not received,"I returned the item three weeks ago and still no refund. I am very disappointed, this is terrible service."
+T-1011,Omar Haddad,Reset my password,"I forgot my password and the reset email never arrives. Can you help?"
+T-1012,Grace Kim,Feedback on new feature,"Love the new export feature. It works perfectly and saves me hours."

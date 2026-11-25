@@ -1,0 +1,4 @@
+# Optional - only needed to use Claude as the AI engine.
+# The platform runs without any packages using the built-in rule-based engine.
+anthropic
+python-dotenv
